@@ -17,6 +17,7 @@ Message Authentication Codes - HMAC
   s.social_media_url = 'https://twitter.com/mlachmish'
 
   s.ios.deployment_target = '8.0'
+  s.watchos.deployment_target = '2.0'
 
   s.source_files = 'Cryptography/**/*'
   s.requires_arc = true
